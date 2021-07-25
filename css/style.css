@@ -1,0 +1,24 @@
+/* p {
+  margin: 0;
+  padding: 0;
+}
+h2 {
+  margin: 0;
+  padding: 0;
+} */
+
+@import url("https://fonts.googleapis.com/css2?family=Rubik:wght@500&display=swap");
+body {
+  font-family: "Rubik", sans-serif;
+}
+.bg-color {
+  background-color: #ffecec;
+  /* padding: 10px; */
+}
+main {
+  background-color: #f6f6f6;
+}
+li {
+  list-style: none;
+  padding: 10px;
+}
