@@ -13,7 +13,7 @@ body {
 }
 .bg-color {
   background-color: #ffecec;
-  /* padding: 10px; */
+  padding: 10px;
 }
 main {
   background-color: #f6f6f6;
@@ -21,4 +21,8 @@ main {
 li {
   list-style: none;
   padding: 10px;
+}
+p > a {
+  text-decoration: none;
+  color: #4f5665;
 }
