@@ -21,6 +21,7 @@ main {
 li {
   list-style: none;
   padding: 10px;
+  white-space: nowrap;
 }
 p > a {
   text-decoration: none;
